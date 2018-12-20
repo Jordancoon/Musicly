@@ -1,5 +1,5 @@
 {
-  "name": "Musicly",
+  "name": "music-player",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,7 +27,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://Jordancoon.github.io/Musicly",
+  "homepage": "https://ashinzekene.github.io/react-music-player",
   "browserslist": [
     ">0.2%",
     "not dead",
