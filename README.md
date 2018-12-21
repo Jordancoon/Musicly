@@ -4,10 +4,10 @@
 
  [CHECK OUT THE WEB APP](https://ancient-sea-15950.herokuapp.com/)
 
-  <img style="display:inline-block" width="350" alt="Musicly screenshot 1" src="image-1.jpg">
-  <img style="display:inline-block" width="350" alt="Musicly screenshot 2" src="image-2.jpg">
-  <img width="700" alt="Musicly screenshot 3" src="image-3.jpg">
-  <img width="700" alt="Musicly screenshot 4" src="image-4.jpg">
+  <img style="display:inline-block" width="350" alt="Musicly screenshot 1" src="image-1.png">
+  <img style="display:inline-block" width="350" alt="Musicly screenshot 2" src="image-2.png">
+  <img width="700" alt="Musicly screenshot 3" src="image-3.png">
+  <img width="700" alt="Musicly screenshot 4" src="image-4.png">
  
 
 ### TECH STACK
