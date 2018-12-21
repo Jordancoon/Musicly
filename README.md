@@ -25,7 +25,7 @@
 
 1. Play Next Automatically ✅
 1. Controls - Next, Previous, Progress Bar ✅
-1. Saving Songs(localStroage) ✅
+1. Saving Songs ✅
 1. UI ✅
 1. A Page for currently playing song ✅
 1. Host on GitHub ✅
