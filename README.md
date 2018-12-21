@@ -1,3 +1,49 @@
+# MUSIC PLAYER
+
+ A react music player that plays local files using the Files API
+
+ [CHECK OUT THE WEB APP](https://ancient-sea-15950.herokuapp.com/)
+
+  <img style="display:inline-block" width="350" alt="Musicly screenshot 1" src="image-1.jpg">
+  <img style="display:inline-block" width="350" alt="Musicly screenshot 2" src="image-2.jpg">
+  <img width="700" alt="Musicly screenshot 3" src="image-3.jpg">
+  <img width="700" alt="Musicly screenshot 4" src="image-4.jpg">
+ 
+
+### TECH STACK
+- React
+- Redux
+
+## Features
+1. Play/Pause
+1. Repeat Options
+1. Progress Bar
+1. Drag and Drop 
+1. Keyborad Controls 
+
+## TODO LIST
+
+1. Play Next Automatically ✅
+1. Controls - Next, Previous, Progress Bar ✅
+1. Saving Songs(localStroage) ✅
+1. UI ✅
+1. A Page for currently playing song ✅
+1. Host on GitHub ✅
+1. Repeat ✅
+1. Seek progressbar on nowPlayingPage ✅
+
+## Future 
+
+1. Create as chrome extension
+1. Able to add songs/playlists from youtube, pandora, spotify
+1. 
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
