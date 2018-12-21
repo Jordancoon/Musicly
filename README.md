@@ -36,7 +36,7 @@
 
 1. Create as chrome extension
 1. Able to add songs/playlists from youtube, pandora, spotify
-1. 
+1. multiple operating systems
 
 
 
