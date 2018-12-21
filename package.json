@@ -27,7 +27,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://ashinzekene.github.io/react-music-player",
+  "homepage": "https://ancient-sea-15950.herokuapp.com/",
   "browserslist": [
     ">0.2%",
     "not dead",
