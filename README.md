@@ -1,6 +1,6 @@
 # MUSIC PLAYER
 
- A react music player that plays local files using the Files API
+ react music player
 
  [CHECK OUT THE WEB APP](https://ancient-sea-15950.herokuapp.com/)
 
